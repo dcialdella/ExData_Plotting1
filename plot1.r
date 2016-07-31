@@ -19,3 +19,4 @@ hist(SolutionGAP, col="red", main="Global Active Power.", xlab="Global Active Po
 
 # REMEMBER THIS !!!!
 dev.off()
+
